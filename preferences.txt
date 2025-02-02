@@ -1,0 +1,1 @@
+just put eth wallets private keys into private_key column (accounts.db)
